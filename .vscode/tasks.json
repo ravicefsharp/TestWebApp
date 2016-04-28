@@ -5,5 +5,5 @@
 	"command": "gulp",
 	"isShellCommand": true,
 	"args": ["--no-color"],
-	"showOutput": "always"
+	"showOutput": "always" 
 }

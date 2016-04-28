@@ -33,8 +33,7 @@
 
   "commands": {
     "web": "Microsoft.AspNet.Server.Kestrel",
-    "ef": "EntityFramework.Commands",
-    "run": "TestWebApp"  //this is the name of your application folder.
+    "ef": "EntityFramework.Commands"
   },
 
   "frameworks": {

@@ -25,7 +25,7 @@ namespace TestWebApp.Controllers
         private readonly ILogger _logger;
 
         public AccountController(
-            userManager<ApplicationUser> userManager,
+            UserManager<ApplicationUser> userManager,
             SignInManager<ApplicationUser> signInManager,
             IEmailSender emailSender,
             ISmsSender smsSender,

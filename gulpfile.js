@@ -45,3 +45,7 @@ gulp.task("min:css", function () {
 });
 
 gulp.task("min", ["min:js", "min:css"]);
+
+gulp.task('default', function() {
+    // Code for the default task
+});
